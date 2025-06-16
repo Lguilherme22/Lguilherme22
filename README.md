@@ -10,7 +10,8 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/gojo-satoru-satoru-gojo-gojo-jujutsu-kaisen-manga-gif-17386688786442927012"  />
+<img src="https://tenor.com/pt-BR/view/gojo-satoru-satoru-gojo-gojo-jujutsu-kaisen-manga-gif-17386688786442927012" height="150" style="float: right;" />
+
 
 ###
 
