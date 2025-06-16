@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/XUiSuVmjE_oAAAAC/satoru-gojo-high-gojo-high.gif"  />
+<img align="right" height="150" width="150" src="https://media1.tenor.com/m/XUiSuVmjE_oAAAAC/satoru-gojo-high-gojo-high.gif"  />
 
 
 ###
