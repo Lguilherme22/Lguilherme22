@@ -1,7 +1,9 @@
 <h2 align="left"> Olá!, me chamo Luís Guilherme 👋</h2>
 
 <hr>
+🧑‍💻 Cursando ads | Desenvolvedor em crescimento | Tecnico em desenvolvimento 🧠
 
+<hr>
 
 <div align="center">
    <img 
