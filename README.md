@@ -1,5 +1,13 @@
 <h2 align="left"> Olá!, me chamo Luís Guilherme 👋</h2>
+  <h3>Sobre mim</h3>
+<p>
+🎓 Já sou Técnico em Desenvolvimento de Sistemas, e atualmente estou cursando Análise e Desenvolvimento de Sistemas para aprofundar ainda mais meus conhecimentos.
 
+💻 Me interesso por desenvolvimento web, back-end com Node.js, e estou sempre aprendendo novas tecnologias para criar soluções práticas e eficientes.
+
+🚀 Este repositório (e meu GitHub como um todo) é o reflexo do meu progresso, estudos e projetos — tanto acadêmicos quanto pessoais.
+
+📚 Aberto a novas ideias, colaborações e aprendizados!</p>
 <hr>
 <p align="center">
 🧑‍💻 Cursando ADS | Desenvolvedor em crescimento | Técnico em Desenvolvimento 🧠
@@ -23,12 +31,12 @@
 
 Tecnologias 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
 </div>
 
 <hr>
