@@ -5,7 +5,7 @@
 
 💻 Me interesso por desenvolvimento web, back-end com Node.js, e estou sempre aprendendo novas tecnologias para criar soluções práticas e eficientes.
 
-🚀 Este repositório (e meu GitHub como um todo) é o reflexo do meu progresso, estudos e projetos — tanto acadêmicos quanto pessoais.
+🚀 Este perfil é o reflexo do meu progresso, estudos e projetos — tanto acadêmicos quanto pessoais.
 
 📚 Aberto a novas ideias, colaborações e aprendizados!</p>
 <hr>
